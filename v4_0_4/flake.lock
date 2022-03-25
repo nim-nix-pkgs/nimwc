@@ -64,48 +64,21 @@
     },
     "bcrypt": {
       "inputs": {
-        "bcrypt-master": "bcrypt-master",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1648107298,
-        "narHash": "sha256-QaZmK08bBTlKN46Ml+MfiWCmYWkSpBU7d9tVKFI8KV4=",
-        "owner": "nim-nix-pkgs",
-        "repo": "bcrypt",
-        "rev": "3d1769419f6c06ca3b1f96484843c6f3dc377f23",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "bcrypt",
-        "type": "github"
-      }
-    },
-    "bcrypt-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "bcrypt",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "bcrypt",
           "nixpkgs"
         ],
         "src-bcrypt-master": "src-bcrypt-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648107298,
-        "narHash": "sha256-QaZmK08bBTlKN46Ml+MfiWCmYWkSpBU7d9tVKFI8KV4=",
+        "lastModified": 1648162935,
+        "narHash": "sha256-zuzLyOyQWXrK1Otrp/MEG2DCZrlHGnXY4lsC8+NBAdQ=",
         "owner": "nim-nix-pkgs",
         "repo": "bcrypt",
-        "rev": "3d1769419f6c06ca3b1f96484843c6f3dc377f23",
+        "rev": "b408b3024b8be8a567049616a7da2dd796d721df",
         "type": "github"
       },
       "original": {
@@ -218,11 +191,11 @@
       },
       "locked": {
         "dir": "v1_0_3",
-        "lastModified": 1648108032,
-        "narHash": "sha256-DonjeBvCE8zdC60gdZFCHqBowcGLsY20fjkQwfok+DU=",
+        "lastModified": 1648163527,
+        "narHash": "sha256-xxGCMWJ1cufzd0veYr6ZziXKoOTkbiQoUnx3cQODtiA=",
         "owner": "nim-nix-pkgs",
         "repo": "recaptcha",
-        "rev": "9080d1efce4dce6b037e977cb3644ca6f07acbb1",
+        "rev": "d430730e6db10f17bb03add33491a03b2f703dc3",
         "type": "github"
       },
       "original": {
