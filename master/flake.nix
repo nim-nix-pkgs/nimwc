@@ -11,6 +11,7 @@
   inputs.src-nimwc-master.ref   = "refs/heads/master";
   inputs.src-nimwc-master.owner = "ThomasTJdev";
   inputs.src-nimwc-master.repo  = "nim_websitecreator";
+  inputs.src-nimwc-master.dir   = "";
   inputs.src-nimwc-master.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
