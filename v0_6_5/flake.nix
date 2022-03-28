@@ -11,7 +11,6 @@
   inputs.src-nimwc-v0_6_5.ref   = "refs/tags/v0.6.5";
   inputs.src-nimwc-v0_6_5.owner = "ThomasTJdev";
   inputs.src-nimwc-v0_6_5.repo  = "nim_websitecreator";
-  inputs.src-nimwc-v0_6_5.dir   = "";
   inputs.src-nimwc-v0_6_5.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
